@@ -6,7 +6,7 @@ import sys
 
 def main():
     """Run administrative tasks."""
-""añado un comentario""
+""añado un comentario22222222222222222""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
         from django.core.management import execute_from_command_line
